@@ -1,0 +1,744 @@
+{
+    "a1000000000": [
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "1000000056",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "1000000057",
+            "chileStyleName": "完成-预约进店"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000024",
+            "chileStyleName": "战败-选择购买其他车型（品牌喜好）"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000025",
+            "chileStyleName": "战败-选择购买其他车型（促销政策）"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000026",
+            "chileStyleName": "战败-选择购买其他车型（产品配置）"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000027",
+            "chileStyleName": "战败-客户资金问题"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000028",
+            "chileStyleName": "战败-客户长期跟进未成交"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000029",
+            "chileStyleName": "战败-客户购买车型长期缺货"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000030",
+            "chileStyleName": "战败-服务人员态度和素养问题"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000031",
+            "chileStyleName": "战败-4S店交通或硬件问题"
+        },
+        {
+            "styleName": "首次来电",
+            "styleCode": 1000000000,
+            "childStyleCode": "3000000032",
+            "chileStyleName": "战败-其他"
+        }
+    ],
+    "a1000000001": [
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "1000000058",
+            "chileStyleName": "完成-无意向"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "1000000059",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "1000000060",
+            "chileStyleName": "完成-成交"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000037",
+            "chileStyleName": "战败-选择购买其他车型（品牌喜好）"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000038",
+            "chileStyleName": "战败-选择购买其他车型（促销政策）"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000039",
+            "chileStyleName": "战败-选择购买其他车型（产品配置）"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000040",
+            "chileStyleName": "战败-客户资金问题"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000041",
+            "chileStyleName": "战败-客户长期跟进未成交"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000042",
+            "chileStyleName": "战败-客户购买车型长期缺货"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000043",
+            "chileStyleName": "战败-服务人员态度和素养问题"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000044",
+            "chileStyleName": "战败-4S店交通或硬件问题"
+        },
+        {
+            "styleName": "首次到店",
+            "styleCode": 1000000001,
+            "childStyleCode": "3000000045",
+            "chileStyleName": "战败-其他"
+        }
+    ],
+    "a1000000002": [
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000062",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000063",
+            "chileStyleName": "完成-预约进店"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000064",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000065",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000066",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "1000000067",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000051",
+            "chileStyleName": "战败-联系方式不准确"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000052",
+            "chileStyleName": "战败-选择购买其他车型（品牌喜好）"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000053",
+            "chileStyleName": "战败-选择购买其他车型（促销政策）"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000054",
+            "chileStyleName": "战败-选择购买其他车型（产品配置）"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000055",
+            "chileStyleName": "战败-客户资金问题"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000056",
+            "chileStyleName": "战败-客户长期跟进未成交"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000057",
+            "chileStyleName": "战败-客户购买车型长期缺货"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000058",
+            "chileStyleName": "战败-服务人员态度和素养问题"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000059",
+            "chileStyleName": "战败-4S店交通或硬件问题"
+        },
+        {
+            "styleName": "首次联系",
+            "styleCode": 1000000002,
+            "childStyleCode": "3000000060",
+            "chileStyleName": "战败-其他"
+        }
+    ],
+    "a1000000003": [
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000074",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000075",
+            "chileStyleName": "完成-成为B级客户"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000076",
+            "chileStyleName": "完成-成为A级客户"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000077",
+            "chileStyleName": "完成-成为H级客户"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000078",
+            "chileStyleName": "完成-成为O级客户"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000079",
+            "chileStyleName": "完成-成交"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000080",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000081",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000082",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "1000000083",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000066",
+            "chileStyleName": "战败-联系方式不准确"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000067",
+            "chileStyleName": "战败-选择购买其他车型（品牌喜好）"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000068",
+            "chileStyleName": "战败-选择购买其他车型（促销政策）"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000069",
+            "chileStyleName": "战败-选择购买其他车型（产品配置）"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000070",
+            "chileStyleName": "战败-客户资金问题"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000071",
+            "chileStyleName": "战败-客户长期跟进未成交"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000072",
+            "chileStyleName": "战败-客户购买车型长期缺货"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000073",
+            "chileStyleName": "战败-服务人员态度和素养问题"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000074",
+            "chileStyleName": "战败-4S店交通或硬件问题"
+        },
+        {
+            "styleName": "客户跟进M+3",
+            "styleCode": 1000000003,
+            "childStyleCode": "3000000075",
+            "chileStyleName": "战败-其他"
+        }
+    ],
+    "a1000000004": [
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000090",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000091",
+            "chileStyleName": "完成-成为B级客户"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000092",
+            "chileStyleName": "完成-成为A级客户"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000093",
+            "chileStyleName": "完成-成为H级客户"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000094",
+            "chileStyleName": "完成-成为O级客户"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000095",
+            "chileStyleName": "完成-成交"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000096",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000097",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000098",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "1000000099",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000081",
+            "chileStyleName": "战败-联系方式不准确"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000082",
+            "chileStyleName": "战败-选择购买其他车型（品牌喜好）"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000083",
+            "chileStyleName": "战败-选择购买其他车型（促销政策）"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000084",
+            "chileStyleName": "战败-选择购买其他车型（产品配置）"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000085",
+            "chileStyleName": "战败-客户资金问题"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000086",
+            "chileStyleName": "战败-客户长期跟进未成交"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000087",
+            "chileStyleName": "战败-客户购买车型长期缺货"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000088",
+            "chileStyleName": "战败-服务人员态度和素养问题"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000089",
+            "chileStyleName": "战败-4S店交通或硬件问题"
+        },
+        {
+            "styleName": "客户跟进（常规）",
+            "styleCode": 1000000004,
+            "childStyleCode": "3000000090",
+            "chileStyleName": "战败-其他"
+        }
+    ],
+    "a1000000005": [
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000106",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000107",
+            "chileStyleName": "完成-改期"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000108",
+            "chileStyleName": "完成-变更跟进方式"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000109",
+            "chileStyleName": "完成-成为B级客户"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000110",
+            "chileStyleName": "完成-成为A级客户"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000111",
+            "chileStyleName": "完成-成为H级客户"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000112",
+            "chileStyleName": "完成-成为O级客户"
+        },
+        {
+            "styleName": "展厅接待",
+            "styleCode": 1000000005,
+            "childStyleCode": "1000000113",
+            "chileStyleName": "完成-成交"
+        }
+    ],
+    "a1000000006": [
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000115",
+            "chileStyleName": "完成-活动完成"
+        },
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000116",
+            "chileStyleName": "完成-改期"
+        },
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000117",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000118",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000119",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "交车提醒",
+            "styleCode": 1000000006,
+            "childStyleCode": "1000000120",
+            "chileStyleName": "继续-其他"
+        }
+    ],
+    "a1000000007": [
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000122",
+            "chileStyleName": "完成-活动完成"
+        },
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000123",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000124",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000125",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000126",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "购车谢礼",
+            "styleCode": 1000000007,
+            "childStyleCode": "1000000127",
+            "chileStyleName": "继续-转其他人处理"
+        }
+    ],
+    "a1000000008": [
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000130",
+            "chileStyleName": "完成-客户已购广爱保险"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000131",
+            "chileStyleName": "完成-提醒完成"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000132",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000133",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000134",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000135",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "保险提醒",
+            "styleCode": 1000000008,
+            "childStyleCode": "1000000136",
+            "chileStyleName": "继续-转其他人处理"
+        }
+    ],
+    "a1000000009": [
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000142",
+            "chileStyleName": "完成-客户已验车"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000143",
+            "chileStyleName": "完成-提醒完成"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000144",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000145",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000146",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000147",
+            "chileStyleName": "继续-其他"
+        },
+        {
+            "styleName": "验车提醒",
+            "styleCode": 1000000009,
+            "childStyleCode": "1000000148",
+            "chileStyleName": "继续-转其他人处理"
+        }
+    ],
+    "a1000000010": [
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000153",
+            "chileStyleName": "完成-无意向"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000154",
+            "chileStyleName": "完成-成为潜在客户"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000155",
+            "chileStyleName": "完成-已是潜在客户，转相关担当"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000156",
+            "chileStyleName": "继续-客户正忙"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000157",
+            "chileStyleName": "继续-未接通电话"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000158",
+            "chileStyleName": "继续-客户暂时不在"
+        },
+        {
+            "styleName": "更换新车提醒",
+            "styleCode": 1000000010,
+            "childStyleCode": "1000000159",
+            "chileStyleName": "继续-其他"
+        }
+    ]
+}
